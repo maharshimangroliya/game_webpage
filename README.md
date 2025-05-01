@@ -31,6 +31,6 @@ Javascript, HTML, CSS, Web Design and Development.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/aboutus%20page.png)
-
-![App Screenshot](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/campus%20page.png)
+![App Screenshot](https://github.com/maharshimangroliya/game_webpage/blob/main/screenshort/Screenshot%20(42).png)
+![App Screenshot](https://github.com/maharshimangroliya/game_webpage/blob/main/screenshort/Screenshot%20(40).png)
+![App Screenshot](https://github.com/maharshimangroliya/game_webpage/blob/main/screenshort/Screenshot%20(39).png)
