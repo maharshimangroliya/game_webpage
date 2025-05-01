@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Tic Tac Toe
 
 A fun and simple Rock Paper Scissors game built with JavaScript! Choose your move and play against the computer in this classic hand game.
 
